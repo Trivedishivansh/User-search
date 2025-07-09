@@ -1,6 +1,6 @@
 let users = [
   {
-    name: "shivansh Trivedi",
+    name: "Shah Tisha",
     pic: "https://i.pinimg.com/736x/cd/9b/1c/cd9b1cf5b96e8300751f952488d6c002.jpg",
     bio: "silent chaos in a loud world 🌑🖤 | not for everyone",
   },
